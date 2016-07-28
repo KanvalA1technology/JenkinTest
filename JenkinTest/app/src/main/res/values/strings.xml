@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JenkinTest</string>
+    <string name="title_objectitem_detail">ObjectItem Detail</string>
+</resources>
